@@ -7,6 +7,7 @@
 	"name": "Usable Explorers Song",
 	"version": "v1.0.0",
 	"developer": "Flexyj71",
+	"links": {"source": "https://github.com/flexyj71/usable-explorers-song"},
 	"resources": {
 		"files": [
 			"resources/ExplorersCut.mp3"
@@ -14,3 +15,4 @@
 	},
 	"description": "Makes Explorers usable as a song in the level editor"
 }
+
