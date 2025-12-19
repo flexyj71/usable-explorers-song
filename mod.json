@@ -1,0 +1,16 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "flexyj71.usable-explorers-song",
+	"name": "Usable Explorers Song",
+	"version": "v1.0.0",
+	"developer": "Flexyj71",
+	"resources": {
+		"files": [
+			"resources/ExplorersCut.mp3"
+		]
+	},
+	"description": "Makes Explorers usable as a song in the level editor"
+}
